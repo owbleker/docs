@@ -20,7 +20,7 @@ Here is the complete list of required files:
 * config/theme.yml
 * assets/js/theme.js
 * assets/css/theme.css
-* templates/_partials/form-field.tpl
+* templates/_partials/form-fields.tpl
 * templates/catalog/product.tpl
 * templates/catalog/listing/product-list.tpl
 * templates/checkout/cart.tpl
